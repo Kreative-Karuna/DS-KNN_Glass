@@ -28,5 +28,3 @@
                   5 containers
                   6 tableware
                   7 headlamps
-
-12. 10
